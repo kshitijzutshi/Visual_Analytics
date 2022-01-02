@@ -1,2 +1,11 @@
-# Visual_Analytics
-Visual Analytics
+# Klee - Visual Analytics
+
+A course on logging and visualizing metrics related to data and models. 
+
+YouTube - https://www.youtube.com/c/NikBearBrown
+GitHub - https://github.com/nikbearbrown/Visual_Analytics
+Kaggle - https://www.kaggle.com/nikbearbrown
+Klee.ai (Visual AI) - http://klee.ai
+
+https://github.com/nikbearbrown/Visual_Analytics/blob/main/IMG/Klee_Visual_Analytics.png?raw=true
+
