@@ -10,4 +10,8 @@ Klee.ai (Visual AI) - http://klee.ai
 ![Klee - Visual Analytics](https://github.com/nikbearbrown/Visual_Analytics/blob/main/IMG/Klee_Visual_Analytics.png?raw=true)
 
 
+![Klee - Visual Analytics Course](https://github.com/nikbearbrown/Visual_Analytics/blob/main/IMG/Visual_Analytics_Course.png?raw=true)
+
+
+
 
